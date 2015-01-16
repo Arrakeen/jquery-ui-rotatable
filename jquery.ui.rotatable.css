@@ -4,6 +4,7 @@
     cursor: pointer;
     background-image: url(rotate.png);
     background-size: 100%;
+    position: absolute;
     left: 2px;
     bottom: 2px;
 }
